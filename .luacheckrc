@@ -1,1 +1,1 @@
-.factorio-luacheckrc/.luacheckrc
+../Factorio-luacheckrc/.luacheckrc
