@@ -1,11 +1,15 @@
 {
-    "name": "aligned-ugp",
-    "version": "1.0.4",
-    "title": "Aligned Underground Pipes",
-    "author": "mkaito",
-    "contact": "",
-    "homepage": "",
-    "factorio_version": "1.1",
-    "dependencies": ["base >= 0.18"],
-    "description": "Align undeground pipes to usual main bus layout: 12 tiles instead of 11."
+  "name": "aligned-ugp",
+  "version": "2.0.0",
+  "title": "Aligned Undergrounds",
+  "author": "mkaito",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 0.18",
+    "? UltimateBelts_Owoshima_And_Pankeko-Mod",
+    "? pypostprocessing"
+  ],
+  "description": "Align undergrounds to usual main bus widths: 4+2 for vanilla, 8+2 for Pyanodons. Supports Ultimate Belts."
 }

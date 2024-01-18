@@ -1,1 +1,0 @@
-../Factorio-luacheckrc/.luacheckrc
